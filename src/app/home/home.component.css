@@ -1,0 +1,54 @@
+
+.top-right{
+    position:absolute;
+    top:8px;
+    right:100px;
+    width:400px;
+  }
+
+  .centered {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    width:800px;
+    transform: translate(-50%, -50%);
+  }
+  .center{
+      color:white;
+      opacity:0.8;
+      font-size: 50px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .second{
+      background-color:rgba(199, 222, 231, 0.747);
+  }
+
+  .one{
+    margin-right: -55px !important;
+    margin-left: 45px !important;
+  }
+
+  .map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+            }
+ .map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+ 
+
+ul {
+  list-style-type: none;
+}
+li{
+    font-size: 25px;
+    font-family:'Comic Sans MS'; 
+}
